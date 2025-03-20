@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Javaria Rizwan
+for freelance work? do reach, (mailto:javariarizwan332@gmail.com) :)
 
-<!--
-**JavariaRizwan/JavariaRizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer | Web Designer | Full Stack Web Developer (PHP)
+🚀 Passionate about PHP, JavaScript, HTML, CSS, MySQL, JavaScript
+🎥 YouTube Content Creator – Teaching Web Development
+🎯 Passionate about building clean, functional, and responsive websites.
 
-Here are some ideas to get you started:
+## Connect with Me:
+**Freelancer:**  https://www.freelancer.com/u/JavariaRizwan?frm=JavariaRizwan&sb=t
+**Instagram:**  https://www.instagram.com/javaria_rizwan786?igsh=cjlxMW1mNmVrM2pp
+**Youtube:**  https://youtube.com/@greatcodehub?si=_LojwdOZMjwS3tR3
+<a href="https://github.com/JavariaRizwan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack:  
+- **Languages:** PHP, JavaScript, HTML, CSS, MySQL  
+- **Frameworks:** Bootstrap, Font-awesome, React.js, SweetAlert  
+- **Tools:** Git, GitHub, VS Code
+
+- ✨ Fun Fact
+💡 Did you know? I love building creative web solutions and sharing my knowledge with the world!
