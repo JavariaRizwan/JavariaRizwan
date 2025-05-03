@@ -2,7 +2,7 @@
 for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com) :)
 ## 🏅 Certifications
 
-- [JavaScript Data Structures and Algorithms Certificate] (https://www.freecodecamp.org/certification/JavariaRizwan/javascript-algorithms-and-data-structures-v8)
+### [🏅 JavaScript Data Structures and Algorithms Certificate](https://www.freecodecamp.org/certification/JavariaRizwan/javascript-algorithms-and-data-structures-v8)
 
 ## JavaSrcipt Developer | Web Developer | Full Stack Web Developer (PHP) | Web Designer 
 - 🚀 Passionate about PHP, JavaScript, HTML, CSS, MySQL, JavaScript  
