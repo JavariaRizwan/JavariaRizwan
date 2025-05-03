@@ -4,11 +4,12 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 
 ### [🏅 JavaScript Data Structures and Algorithms Certificate](https://www.freecodecamp.org/certification/JavariaRizwan/javascript-algorithms-and-data-structures-v8)
 
-## JavaSrcipt Developer | Web Developer | Full Stack Web Developer (PHP) | Web Designer 
+## JavaScript Developer | Web Developer | Full Stack Web Developer (PHP) | Web Designer 
 - 🚀 Passionate about PHP, JavaScript, HTML, CSS, MySQL, JavaScript  
 - 🎥 YouTube Content Creator – Teaching Web Development  
 - 🎯 Passionate about building clean, functional, and responsive websites  
-
+- 🌐 Passionate JavaScript Developer
+- 💡 Focused on writing clean, modular, and efficient code
 ## Connect with Me:
 - **Freelancer:**  <a href="https://www.freelancer.com/u/JavariaRizwan?frm=JavariaRizwan&sb=t"><img src="https://img.shields.io/badge/Freelancer-0074CC?style=for-the-badge&logo=freelancer"></a>
 - **Instagram:** <a href="https://www.instagram.com/javaria_rizwan786?igsh=cjlxMW1mNmVrM2pp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
