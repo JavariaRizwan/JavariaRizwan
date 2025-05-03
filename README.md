@@ -1,7 +1,10 @@
 #👋 Hi, I'm Javaria Rizwan
 for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com) :)
+## 🏅 Certifications
 
-## Web Developer | Web Designer | Full Stack Web Developer (PHP)
+- [JavaScript Data Structures and Algorithms Certificate] (https://www.freecodecamp.org/certification/JavariaRizwan/javascript-algorithms-and-data-structures-v8)
+
+## JavaSrcipt Developer | Web Developer | Full Stack Web Developer (PHP) | Web Designer 
 - 🚀 Passionate about PHP, JavaScript, HTML, CSS, MySQL, JavaScript  
 - 🎥 YouTube Content Creator – Teaching Web Development  
 - 🎯 Passionate about building clean, functional, and responsive websites  
