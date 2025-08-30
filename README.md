@@ -28,14 +28,27 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white))
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## JavaScript Developer | Web Developer | Full Stack Web Developer (PHP) | Web Designer 
-- 🚀 Passionate about PHP, JavaScript, HTML, CSS, MySQL, JavaScript  
+- **Frameworks:** Bootstrap, Font-awesome, React.js, SweetAlert  
+- **Tools:** Git, GitHub, VS Code
+
+### 💻 Role
+## MERN Stack Developer | JavaScript Developer | Full Stack Web Developer (MERN) | Web Designer 
+
+I am a **MERN Stack Developer** specializing in building **full-stack web applications** using:
+
+- **MongoDB** – Database
+- **Express.js** – Backend framework
+- **React.js** – Frontend framework
+- **Node.js** – Server environment
+
+- 🚀 Passionate about JavaScript, HTML, CSS, MySQL, JavaScript, MERN  
 - 🎥 YouTube Content Creator – Teaching Web Development  
 - 🎯 Passionate about building clean, functional, and responsive websites  
 - 🌐 Passionate JavaScript Developer
 - 💡 Focused on writing clean, modular, and efficient code
+- 
 ## Connect with Me:
 - **Freelancer:**  <a href="https://www.freelancer.com/u/JavariaRizwan?frm=JavariaRizwan&sb=t"><img src="https://img.shields.io/badge/Freelancer-0074CC?style=for-the-badge&logo=freelancer"></a>
 - **Instagram:** <a href="https://www.instagram.com/javaria_rizwan786?igsh=cjlxMW1mNmVrM2pp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
@@ -43,10 +56,6 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 - **GitHub:**  <a href="https://github.com/JavariaRizwan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-### 🚀 Tech Stack:  
-- **Languages:** PHP, JavaScript, HTML, CSS, MySQL  
-- **Frameworks:** Bootstrap, Font-awesome, React.js, SweetAlert  
-- **Tools:** Git, GitHub, VS Code
 
 - ✨ Fun Fact
 - 💡 Did you know? I love building creative web solutions and sharing my knowledge with the world!
