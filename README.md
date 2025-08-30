@@ -8,6 +8,12 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 
 ### [🏅 Oracle Cloud Infrastructure 2025 AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=32AD588497D5DC5CBD5CF8DA2593C579E6FC6A7AF96BFE82CA8D6CEB2191E4DC)
 
+### 🛠️ Tech Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
 ## JavaScript Developer | Web Developer | Full Stack Web Developer (PHP) | Web Designer 
 - 🚀 Passionate about PHP, JavaScript, HTML, CSS, MySQL, JavaScript  
 - 🎥 YouTube Content Creator – Teaching Web Development  
