@@ -19,14 +19,13 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F61?style=flat&logo=brain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat&logo=tensorflow&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -34,7 +33,11 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 - **Tools:** Git, GitHub, VS Code
 
 ### 💻 Role
-## MERN Stack Developer | JavaScript Developer | Full Stack Web Developer (MERN) | Web Designer 
+![MERN + AI Badge](https://img.shields.io/badge/MERN%20Stack%20Developer%20%26%20AI%20Enthusiast-blue?style=for-the-badge)
+
+I am a **MERN Stack Developer & AI Enthusiast** specializing in building **full-stack web applications** and exploring **Artificial Intelligence applications**.
+
+I enjoy working on **e-commerce, portfolio, AI, and personal projects** using modern technologies.
 
 I am a **MERN Stack Developer** specializing in building **full-stack web applications** using:
 
@@ -59,3 +62,4 @@ I am a **MERN Stack Developer** specializing in building **full-stack web applic
 
 - ✨ Fun Fact
 - 💡 Did you know? I love building creative web solutions and sharing my knowledge with the world!
+- I love learning **new technologies, exploring AI applications**, and contributing to **open-source projects**.
