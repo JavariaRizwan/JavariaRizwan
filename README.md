@@ -58,6 +58,7 @@ I am a **MERN Stack Developer** specializing in building **full-stack web applic
 - **Youtube:**  <a href="https://youtube.com/@greatcodehub?si=_LojwdOZMjwS3tR3" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 - **GitHub:**  <a href="https://github.com/JavariaRizwan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+- **LinkedIn** <a href="https://www.linkedin.com/in/javaria-rizwan-095b3a343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 - ✨ Fun Fact
