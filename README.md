@@ -4,7 +4,7 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 
 ### [🏅 JavaScript Data Structures and Algorithms Certificate](https://www.freecodecamp.org/certification/JavariaRizwan/javascript-algorithms-and-data-structures-v8)
 
-### [🏅 Oracle Cloud Infrastructure 2025 Generative AI Professional](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6840907&trackId=OCI25GAIOCP&key=1221a3ca533e2c5faa6f61c43253215d16b268ed)
+### [🏅 Oracle Cloud Infrastructure 2025 Generative AI Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CDE084CE8DE7E369B3DA35235FD3EC8728647BD36B918AA2066F94A7B689051A)
 
 ### [🏅 Oracle Cloud Infrastructure 2025 AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=32AD588497D5DC5CBD5CF8DA2593C579E6FC6A7AF96BFE82CA8D6CEB2191E4DC)
 
