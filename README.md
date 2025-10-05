@@ -10,6 +10,12 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 
 ### [🏅 Oracle AI Vector Search Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=340F84A488CC6916FE344D08A32AC6881713E991203F2306D0176A1D24446003)
 
+### 🧠 **Hackathon Participation:**  
+  *Participated in the LabLab.AI Hackathon — showcasing innovative AI solutions and teamwork.*  
+  
+[![View Certificate](https://img.shields.io/badge/🎓_LabLab.AI_Hackathon-View_Certificate-blue?style=for-the-badge)](https://lablab.ai/u/@LumiVerse/cmg2lbqal00186l0sl5rpcr5o?_gl=1*12as9vz*_up*MQ..*_ga*MzEzODM2OTk4LjE3NTk2NTU0NzE.*_ga_0DKXC1L0Y7*czE3NTk2NTU0NzAkbzEkZzAkdDE3NTk2NTU0NzAkajYwJGwwJGgxNzc1NjczMTI0)
+
+
 ### 🛠️ Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
