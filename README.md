@@ -40,6 +40,27 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 - **Frameworks:** Bootstrap, Font-awesome, React.js, SweetAlert  
 - **Tools:** Git, GitHub, VS Code
 
+
+<hr style="border: 1px solid #ff0055; width: 80%; margin: auto;" />
+
+
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JavariaRizwan&show_icons=true&theme=radical" alt="GitHub Stats" width="55%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JavariaRizwan&theme=radical" alt="GitHub Streak" width="55%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavariaRizwan&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+
+</div>
+
+
+
+<hr style="border: 1px solid #ff0055; width: 80%; margin: auto;" />
+
+
 ### 💻 Role
 ![MERN + AI Badge](https://img.shields.io/badge/MERN%20Stack%20Developer%20%26%20AI%20Enthusiast-blue?style=for-the-badge)
 
@@ -54,12 +75,13 @@ I am a **MERN Stack Developer** specializing in building **full-stack web applic
 - **React.js** – Frontend framework
 - **Node.js** – Server environment
 
+
 - 🚀 Passionate about JavaScript, HTML, CSS, MySQL, JavaScript, MERN  
 - 🎥 YouTube Content Creator – Teaching Web Development  
 - 🎯 Passionate about building clean, functional, and responsive websites  
 - 🌐 Passionate JavaScript Developer
 - 💡 Focused on writing clean, modular, and efficient code
-- 
+ 
 ## Connect with Me:
 - **Freelancer:**  <a href="https://www.freelancer.com/u/JavariaRizwan?frm=JavariaRizwan&sb=t"><img src="https://img.shields.io/badge/Freelancer-0074CC?style=for-the-badge&logo=freelancer"></a>
 - **Instagram:** <a href="https://www.instagram.com/javaria_rizwan786?igsh=cjlxMW1mNmVrM2pp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
