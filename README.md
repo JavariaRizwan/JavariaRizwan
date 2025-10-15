@@ -50,8 +50,6 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=JavariaRizwan&show_icons=true&theme=radical" alt="GitHub Stats" width="55%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JavariaRizwan&theme=radical" alt="GitHub Streak" width="55%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavariaRizwan&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 
 </div>
