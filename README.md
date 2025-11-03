@@ -6,6 +6,8 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
 
 ### [🏅 Oracle Cloud Infrastructure 2025 Generative AI Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CDE084CE8DE7E369B3DA35235FD3EC8728647BD36B918AA2066F94A7B689051A)
 
+### [🏅 Oracle Cloud Infrastructure 2025 Certified Data Science Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFBCBCFCDD7D8025D080FFC1371735456CD926C408497275E525797C0DFF0A70)
+
 ### [🏅 Oracle Cloud Infrastructure 2025 AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=32AD588497D5DC5CBD5CF8DA2593C579E6FC6A7AF96BFE82CA8D6CEB2191E4DC)
 
 ### [🏅 Oracle AI Vector Search Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=340F84A488CC6916FE344D08A32AC6881713E991203F2306D0176A1D24446003)
@@ -15,7 +17,10 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
   
 [![View Certificate](https://img.shields.io/badge/🎓_LabLab.AI_Hackathon-View_Certificate-blue?style=for-the-badge)](https://lablab.ai/u/@LumiVerse/cmg2lbqal00186l0sl5rpcr5o?_gl=1*12as9vz*_up*MQ..*_ga*MzEzODM2OTk4LjE3NTk2NTU0NzE.*_ga_0DKXC1L0Y7*czE3NTk2NTU0NzAkbzEkZzAkdDE3NTk2NTU0NzAkajYwJGwwJGgxNzc1NjczMTI0)
 
-
+  *Participated in the Innovista Hackathon powered by Google — showcasing creative AI-driven solutions.* 
+  
+  Made project **💚 Sehat ka Saathi 💚** - Your personal AI-powered health companion for smarter well-being.
+ 
 ### 🛠️ Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
