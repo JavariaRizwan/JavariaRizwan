@@ -17,7 +17,7 @@ for freelance work? do reach, [📧 Email Me](mailto:javariarizwan332@gmail.com)
   
 [![View Certificate](https://img.shields.io/badge/🎓_LabLab.AI_Hackathon-View_Certificate-blue?style=for-the-badge)](https://lablab.ai/u/@LumiVerse/cmg2lbqal00186l0sl5rpcr5o?_gl=1*12as9vz*_up*MQ..*_ga*MzEzODM2OTk4LjE3NTk2NTU0NzE.*_ga_0DKXC1L0Y7*czE3NTk2NTU0NzAkbzEkZzAkdDE3NTk2NTU0NzAkajYwJGwwJGgxNzc1NjczMTI0)
 
-  *Participated in the Innovista Hackathon powered by Google — showcasing creative AI-driven solutions.* 
+  *Won the Innovista Hackathon powered by Google standing as the second runner up Participant — showcasing creative AI-driven solutions.* 
   
   Made project **💚 Sehat ka Saathi 💚** - Your personal AI-powered health companion for smarter well-being.
  
